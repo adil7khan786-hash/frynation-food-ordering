@@ -1,0 +1,15 @@
+# ==========================================
+# Robots.txt for FryNation Pakistan
+# Optimized for Googlebot & SEMrush Site Audit
+# ==========================================
+
+User-agent: *
+Allow: /
+Allow: /src/
+Allow: /public/
+
+# Sitemaps
+Sitemap: https://frynation.pk/sitemap.xml
+
+# Crawl Delay (friendly to server)
+Crawl-delay: 1

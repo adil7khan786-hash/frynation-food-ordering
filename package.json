@@ -1,0 +1,26 @@
+{
+  "name": "frynation-food-ordering",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Premium Pakistani Fast Food Ordering Web Application inspired by OPTP user experience",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  },
+  "keywords": [
+    "food-ordering",
+    "pakistan-fast-food",
+    "loaded-fries",
+    "smash-burgers",
+    "vite",
+    "seo-optimized",
+    "semrush-ready"
+  ],
+  "author": "FryNation Academic Team",
+  "license": "MIT"
+}

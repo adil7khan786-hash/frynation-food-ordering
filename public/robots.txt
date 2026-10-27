@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /src/
+Allow: /public/
+Sitemap: https://frynation.pk/sitemap.xml
+Crawl-delay: 1
